@@ -16,3 +16,6 @@ The item creates a frameless window with basic functions such as maximize / mini
 
 ### Fake Nested Window
 This item is inspired from NestedToplevel in tkintertools. This item creates a fake nested window based on tkinter.Frame, which is cross-platform and customizable.
+
+### Transparent Window
+This item creates a transparent window in tkinter. In Windows uses the -transparentcolor attributes, and it can change the color. In macOS uses the -transparent attributes.
